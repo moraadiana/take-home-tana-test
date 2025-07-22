@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RotateLinkedList {
+public class Question7_RotateLinkedList{
 
     public static void main(String[] args) {
         // Create a LinkedList and add some items

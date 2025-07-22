@@ -1,4 +1,4 @@
-public class MakeZeroArray{
+public class Question3_MakeZeroArray{
 
     //function to compute Greatest Common Divisor (gcd) of two numbers
     static int gcd(int x, int y) {

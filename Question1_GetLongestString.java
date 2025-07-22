@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LongestValidString {
+public class Question1_GetLongestString {
 
     // Check if string is valid, pass paramaters 
     public static boolean isValid(String s, Set<Character> validCharacterSet) {

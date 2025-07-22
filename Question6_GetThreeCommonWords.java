@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CommonWordsFinder {
+public class Question6_GetThreeCommonWords{
 
     public static List<String> GetThreeCommonWords(String sentence) {
         // convert to lowercase and split words

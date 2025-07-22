@@ -1,4 +1,4 @@
-public class ClosestMinimumDistance {
+public class Question5_GetClosestMinDistance{
 
     public static int GetClosestMinDistance(int[] numbers) {
         int minValue = Integer.MAX_VALUE;

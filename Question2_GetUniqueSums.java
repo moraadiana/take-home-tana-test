@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class UniqueSums {
+public class Question2_GetUniqueSums {
 
     public static int Combinations(int[] nums, int target) {
         Set<String> uniqueCombinations = new HashSet<>();

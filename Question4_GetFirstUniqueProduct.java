@@ -1,5 +1,5 @@
 import java.util.*;
-public class FindUniqueProduct {
+public class Question4_GetFirstUniqueProduct{
 
     public static String GetFirstUniqueProduct(String[] products) {
         Map<String, Integer> countMap = new LinkedHashMap<>();
